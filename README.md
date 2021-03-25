@@ -1,6 +1,10 @@
 # Experimental DS
 
   > For learning more about design systems/component libraries, monorepos, lerna, etc.
+ 
+ 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a3aae5ec-bc48-4e5b-9c77-21ea3651daeb/deploy-status)](https://app.netlify.com/sites/experimental-ds/deploys)
+
 
 ## Main technologies
 - TypeScript, React.js
