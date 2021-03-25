@@ -5,6 +5,7 @@
 /build
 /dist
 /packages/**/lib/
+/storybook-static
 
 # misc
 .DS_Store
