@@ -1,0 +1,22 @@
+{
+  "name": "experimental-ds-components",
+  "version": "0.0.0",
+  "description": "Experimental DS UI components",
+  "author": "Jaakko Kytölä <kytola.jaakko@gmail.com>",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc -d",
+    "dev": "tsc --watch"
+  },
+  "dependencies": {
+    "experimental-ds-theming": "^0.0.0",
+    "experimental-ds-button": "^0.0.0"
+  }
+}

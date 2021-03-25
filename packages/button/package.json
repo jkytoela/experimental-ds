@@ -1,0 +1,20 @@
+{
+  "name": "experimental-ds-button",
+  "version": "0.0.0",
+  "description": "A button component",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "Jaakko Kytölä <kytola.jaakko@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -d",
+    "dev": "tsc --watch"
+  },
+  "dependencies": {
+    "experimental-ds-core": "^0.0.0",
+    "experimental-ds-theming": "^0.0.0"
+  }
+}
