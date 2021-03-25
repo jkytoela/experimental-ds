@@ -114,6 +114,13 @@ You can build separate packages by navigating to the package and running the bui
 
 This will run the build process locally, and give you better, syntax highlighted, error messaging.
 
+## Building Storybook
+
+For building static files of storybook (for netlify for example), run:
+
+`yarn build && yarn build-storybook`
+
+Static build of storybook will be created to `/storybook-static`
 
 ## Links
 
